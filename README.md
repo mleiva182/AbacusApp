@@ -18,7 +18,7 @@
 ### minSdk 26,targetSdk 34, JavaVersion.VERSION_17, gradle-8.6-bin
 
 ### Portfolio
-![Portfolio](app/src/main/res/screenshots/Screenshot_20250724_120214.png)
+![Portfolio](app/src/main/res/drawable/screenshot_20250724_120214.png)
 
 ### Search
-![Search](app/src/main/res/screenshots/Screenshot_20250724_120254.png)
+![Search](app/src/main/res/drawable/screenshot_20250724_120254.png)
